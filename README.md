@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alarabyabdo33@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y7_A_iheQW3F3A2clXK77RJ4Oknt1Coi/view?usp=sharing](https://drive.google.com/file/d/1y7_A_iheQW3F3A2clXK77RJ4Oknt1Coi/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1y7_A_iheQW3F3A2clXK77RJ4Oknt1Coi/view?usp=sharing" target="blank">CV Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
