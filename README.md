@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Namasoft**
 
-- 🌱 I’m currently learning **Spring Framework and German**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **alarabyabdo33@gmail.com**
 
