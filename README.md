@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abd El Rahman</h1>
-<h3 align="center">A Software developer from Egypt</h3>
+<h3 align="center">A Backend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanashraf99&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanashraf99" /> </p>
 
 - 🔭 I’m currently working at **Namasoft**
-
-- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **alarabyabdo33@gmail.com**
 
